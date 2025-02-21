@@ -17,7 +17,7 @@ FundMe is a smart contract that allows users to send ETH to support a project. I
 ## 📥 Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-```sh
+
 git clone https://github.com/YourUsername/FundMe.git
 cd FundMe
 2️⃣ Install Dependencies
@@ -31,9 +31,7 @@ Then, install the project dependencies:
 
 forge install
 3️⃣ Compile the Smart Contract
-sh
-Másolás
-Szerkesztés
+
 forge build
 4️⃣ Run Tests
 This project includes unit tests to ensure functionality. Run all tests with:
